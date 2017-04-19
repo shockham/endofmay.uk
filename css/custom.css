@@ -1,0 +1,15 @@
+
+body {
+    color: #ffffff;
+    background: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+a { color: #ffffff; }
+a:hover { color: #c6c6c6; }
+
+
+.header {
+    font-size: 500%;
+}
